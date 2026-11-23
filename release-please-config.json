@@ -1,0 +1,9 @@
+{
+  "packages": {
+    ".": {
+      "release-type": "rust",
+      "package-name": "pennant-machines",
+      "bump-minor-pre-major": true
+    }
+  }
+}
