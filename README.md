@@ -28,5 +28,5 @@ Pennant is a `no_std` selector, not a handshake. The application authenticates
 and exchanges offers, and decides what to do if negotiation fails. There is no
 wire format or session state.
 
-**Status:** Unpublished local core. Foundation demonstrates the selection in
-its expand/contract scenario; no production consumer is claimed.
+The Foundation expand/contract example shows how an offer-wide requirement
+survives fallback.
